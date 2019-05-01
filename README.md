@@ -1,2 +1,5 @@
 # cfdi-haxxor
-R scripts for CFDI's XML files handling
+Collections of CFDI handling scripts
+
+## License
+Feel free to pull, commit or submit changes
